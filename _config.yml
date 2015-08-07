@@ -1,6 +1,7 @@
 # Site settings
 title: stwcx.
 tagline: Do you have a reservation?
+owner: Patrick Williams
 email: patrick@stwcx.xyz
 description: > # this means to ignore newlines until "baseurl:"
     stwcx. is a Power assembly instruction: Store Word Conditional
