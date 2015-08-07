@@ -11,6 +11,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.stwcx.xyz" # the base hostname & protocol for your site
 twitter_username: williamspatrick
 github_username:  williamspatrick
+excerpt_separator: <!--more-->
 
 # Build settings
 markdown: kramdown
