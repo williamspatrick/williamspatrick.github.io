@@ -7,7 +7,7 @@ description: > # this means to ignore newlines until "baseurl:"
     Indexed.  Paired with lwarx, and appropriate memory barriers, it
     performs an atomic operation.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://stwcx.xyz" # the base hostname & protocol for your site
+url: "http://www.stwcx.xyz" # the base hostname & protocol for your site
 twitter_username: williamspatrick
 github_username:  williamspatrick
 
