@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How I set up my email
-date: 2015-08-07 15:50
+date: 2015-08-07 22:50
 categories: blog
 tags: [email, linux, howto, offlineimap, mutt, msmtp]
 ---
