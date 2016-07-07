@@ -14,16 +14,16 @@ because Notes created my email as an HTML attachement.  So, I've decided to
 setup an entirely command-line email environment for any open source work I
 do.  I arrived at using:
 
-* [mutt](www.mutt.org)
-* [msmtp](msmtp.sourceforge.net)
-* [offlineimap](offlineimap.org)
+* [mutt](http://www.mutt.org)
+* [msmtp](http://msmtp.sourceforge.net)
+* [offlineimap](http://offlineimap.org)
 <!--more-->
 
 ### Domain Config ###
 I wanted something more unique than just another gmail address, so I
-registered a domain at [nic.xyz](nic.xyz) and routed all the email to
-[zoho.com](zoho.com). Per this instructions on zoho, this requires setting up 
-two MX records as follows:
+registered a domain at [nic.xyz](http://nic.xyz) and routed all the email to
+[zoho.com](http://zoho.com). Per this instructions on zoho, this requires
+setting up two MX records as follows:
 
 | Hostname | Address      | Priority |
 |:--------:|--------------|:--------:|
