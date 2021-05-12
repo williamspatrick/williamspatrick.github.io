@@ -53,7 +53,7 @@ My plan to get this integrate is as follows:
    will be under the Gerrit topic [`sdbuspp_camelcase`][7]. (**done**)
 3. After #2's are all merged, make a test commit to [openbmc/openbmc][8] of the
    `sdbus++` changes to ensure I haven't missed something in step 2, and make
-   fixes as necessary.
+   fixes as necessary.  (**done 2021-05-12**)
 4. Remove the `#define SDBUSPP_NEW_CAMELCASE` from sdbus++ after #3 is merged.
 5. Clean up the `#else` side of the `#ifdef`'s in #2 so that the old-style
    acronyms are no longer present.
